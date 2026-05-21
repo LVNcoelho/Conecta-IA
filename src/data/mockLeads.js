@@ -5,7 +5,7 @@ export const mockLeads = {
       id: 1,
       nome: "Juliana Costa",
       origem: "Instagram",
-      contexto: "Perguntou por vestido midi para casamento no sábado na página do concorrente.",
+      contexto: "Perguntou por vestido midi para festa  no sábado na página do concorrente.",
       score: 85,
       bairro: "Centro",
       script: "Olá Juliana, tudo bem? Vi que você está procurando um look de festa lindo! Acabamos de receber modelos exclusivos de vestidos aqui na nossa loja no centro. Quer que eu te envie as fotos?"
@@ -14,7 +14,7 @@ export const mockLeads = {
       id: 2,
       nome: "Amanda Melo",
       origem: "Facebook Local",
-      contexto: "Postou em grupo da cidade procurando indicação de loja com moda plus size.",
+      contexto: "Procurando indicação de loja com moda plus size.",
       score: 80,
       bairro: "Bairro Novo",
       script: "Oi Amanda! Vi que você está procurando moda plus size aqui na cidade. Temos uma coleção linda com caimento perfeito aqui na loja. Se quiser, posso te mandar nosso catálogo digital!"
